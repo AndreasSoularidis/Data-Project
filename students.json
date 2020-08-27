@@ -1,0 +1,41 @@
+[
+  {
+    "student_id": "std1000",
+    "name": "Andreas",
+    "surname": "Green",
+    "fathers_name": "Stamatis",
+    "age": "30", "semester": "4",
+    "card_id": "NM12345",
+    "enrolled_courses": ["crs1000", "crs1001"]
+  },
+  {
+    "student_id": "std1001",
+    "name": "Maria",
+    "surname": "Menounos",
+    "fathers_name": "Anastasios",
+    "age": "29",
+    "semester": "1",
+    "card_id": "MN12345",
+    "enrolled_courses": ["crs1000"]
+  },
+  {
+    "student_id": "std1002",
+    "name": "Nick",
+    "surname": "Calathes",
+    "fathers_name": "Michael",
+    "age": "32",
+    "semester": "5",
+    "card_id": "KL12345",
+    "enrolled_courses": ["crs1000"]
+  },
+  {
+    "student_id": "std1003",
+    "name": "Maria",
+    "surname": "Asimof",
+    "fathers_name": "Paul",
+    "age": "30",
+    "semester": "6",
+    "card_id": "FR12345",
+    "enrolled_courses": ["crs1000", "crs1004"]
+  }
+]

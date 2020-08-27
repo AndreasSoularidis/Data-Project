@@ -1,0 +1,32 @@
+[
+  {
+    "course_id": "crs1000",
+    "title": "Algorithms",
+    "type": "Theory"
+  },
+  {
+    "course_id": "crs1001",
+    "title": "Data Structures with Python",
+    "type": "Theory"
+  },
+  {
+    "course_id": "crs1002",
+    "title": "Introduction to C",
+    "type": "Lab"
+  },
+  {
+    "course_id": "crs1003",
+    "title": "Algebra",
+    "type": "Theory"
+  },
+  {
+    "course_id": "crs1004",
+    "title": "Databases",
+    "type": "Lab"
+  },
+  {
+    "course_id": "crs1005",
+    "title": "Object Oriented Programming with Java",
+    "type": "Lab"
+  }
+]

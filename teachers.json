@@ -1,0 +1,30 @@
+[
+  {
+    "teacher_id": "prf1000",
+    "name": "Bob",
+    "surname": "Ross",
+    "card_id": "MK12345",
+    "courses": ["crs1000", "crs1005"]
+  },
+
+  {"teacher_id": "prf1001",
+    "name": "Ross",
+    "surname": "Brown",
+    "card_id": "RF34567",
+    "courses": ["crs1001"]
+  },
+
+  {"teacher_id": "prf1002",
+    "name": "Mark",
+    "surname": "Powell",
+    "card_id": "KL12345",
+    "courses": ["crs1005"]
+  },
+
+  {"teacher_id": "prf1003",
+    "name": "Oliver",
+    "surname": "Kolman",
+    "card_id": "OP12345",
+    "courses": ["crs1003"]
+  }
+]
